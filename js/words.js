@@ -21,7 +21,7 @@ const words = [
 	},
 	{
 		word: "Bahorrina",
-		hint: "The process of adding numbers"
+		hint: "Conjunto de muchas cosas asquerosas mezcladas con agua sucia."
 	},
 	{
 		word: "Bonhomía",
