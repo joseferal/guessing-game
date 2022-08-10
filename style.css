@@ -81,9 +81,13 @@ body{
 .buttons .refresh-word{
 	background: #a7e4fa;
 	cursor: pointer;
+	text-decoration: none;
+	color: #52879b;
 }
 
 .buttons .check-word{
-	background: beige;
+	background: rgb(245, 245, 220);
 	cursor: pointer;
+	text-decoration: none;
+	color: rgb(145, 145, 103);
 }
