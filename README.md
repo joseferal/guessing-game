@@ -25,7 +25,7 @@ HTML, CSS, JS
 
 ## Support
 
-For support, email jtax_devs@proton.me or join our Slack channel.
+For support, email jtax_devs@proton.me.
 
 
 ## Demo
