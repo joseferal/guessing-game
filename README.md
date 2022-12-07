@@ -30,4 +30,4 @@ For support, email jtax_devs@proton.me.
 
 ## Demo
 
-https://josejtax.github.io/Guessing-Game/
+https://josemafd.github.io/Guessing-Game/
