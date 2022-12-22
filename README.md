@@ -24,9 +24,9 @@ HTML, CSS, JS
 
 ## Support
 
-For support, email hola@josemafd.com.
+For support, email #####
 
 
 ## Demo
 
-https://josemafd.github.io/Guessing-Game/
+Change of personal brand
