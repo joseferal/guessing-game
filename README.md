@@ -21,4 +21,4 @@ For support, email jtax@allowcookies.dev
 
 ## Demo
 
-https://allowcookies.github.io/Guessing-Game/
+https://madejtax.github.io/Guessing-Game/
