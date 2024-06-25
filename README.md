@@ -7,8 +7,3 @@ You have to guess a word, in which you are given no other clues than to tell you
 ## Tech Stack
 
 HTML, CSS, JS
-
-
-## Support
-
-You can see more projects at jtax.dev, as well as contact me at [jose@jtax.dev](mailto:jose@jtax.dev).
